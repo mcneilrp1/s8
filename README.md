@@ -1,2 +1,2 @@
-# s8
-kontrol s8 modifier
+# S8
+Kontrol S8 modifier
